@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 env:
-  AZURE_WEBAPP_NAME: YOUR-APP-SERVICE-NAME
+  AZURE_WEBAPP_NAME: mytcsapps
   PYTHON_VERSION: "3.11"
 
 jobs:
