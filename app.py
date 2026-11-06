@@ -7,7 +7,7 @@ app = Flask(__name__)
 
 # Replace these placeholders with your Azure AI Language resource details.
 # IMPORTANT: Do not commit real credentials to a public GitHub repository.
-endpoint = "https://msftfoundry2029090809.services.ai.azure.com/"
+endpoint = "https://msftfoundry2029090809.cognitiveservices.azure.com/"
 api_key = "DaR7D6i3cYa34Ix0FP3Jc6paB7waT2KUYGVTxxHQhu7DlzgtTno5JQQJ99CKACHYHv6XJ3w3AAAAACOGtDEK"
 
 
